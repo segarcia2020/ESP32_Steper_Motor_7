@@ -1,10 +1,6 @@
 /*
-  Capitulo 33 de Arduino desde cero en Español.
-  Simple programa para controlar un motor del tipo bipolar NEMA 17 mediante el
-  controlador driver A4988 logrando un giro de media vuelta en un sentido y en otro
-
-  Autor: bitwiseAr  
-  Co Autor : Sergio Garcia
+    
+  Autor : Sergio Garcia
   Agosto-Septiembre-Octubre 2021
   Enero-Febrero- Marzo 2022
   Junio 2022
@@ -36,24 +32,26 @@
 
   SIMULACION  "1" se programa RTC a 22/1/2022  - 8:16 hs
   
-Manejo de programas Matematico en internet
-Carpeta local
-C:\Users\sgarcia\Downloads\00000_web\ambaracs.com\calculo_solar
+  Manejo de programas Matematico en internet
+  Carpeta local
+  C:\Users\sgarcia\Downloads\00000_web\ambaracs.com\calculo_solar
+  
+  Internet: https://ambaracs.com/Calculo_Solar/
 
-Internet: https://ambaracs.com/Calculo_Solar/
+  Programas en php:
+  calculo_solar_v2 y calculo_solar_v1 : Superados
+  calculo_solar_v3.php tiene la base que sigue el programa ESP32
+  
+  Formularios:
+  
+  f.html ---> calculo_solar.php
+  formulario.html  --> calculo_solar_v2.php
+  s.html --> calculo_solar_v3.php  // Este deberia ser OK
 
-Programas en php:
-calculo_solar_v2 y calculo_solar_v1 : Superados
-calculo_solar_v3.php tiene la base que sigue el programa ESP32
+  RECOMENDACIÖN!!!!!!
+  COMPILACION!!!!!!!! sacar el cable naranja que conecta el pcb a el modulo RTC!!!!!
 
-Formularios:
-
-f.html ---> calculo_solar.php
-formulario.html  --> calculo_solar_v2.php
-s.html --> calculo_solar_v3.php  // Este deberia ser OK
-
-RECOMENDACIÖN!!!!!!
-COMPILACION!!!!!!!! sacar el cable naranja que conecta el pcb a el modulo RTC!!!!!
+  Este modificacion fue relaizada en 21/6/2022 9:14 hs
    
 */
 
