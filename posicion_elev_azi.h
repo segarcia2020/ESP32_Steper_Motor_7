@@ -247,8 +247,9 @@ float $Solar_Elevation_corr_atm_refraction=$Solar_Elevation_Angle+$Approx_Atmosp
         Serial.println( " -------------------------------------------------------------------------------------");
 
     }  
-// Rutina de impresion  
-/// Si imp=0 no imprime
+
+//  Rutina de impresion  
+//  Si imp=0 no imprime
 //  Si imp=1 imprime
 
 
